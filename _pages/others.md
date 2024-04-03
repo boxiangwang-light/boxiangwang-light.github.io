@@ -1,73 +1,94 @@
 ---
 layout: page
-title: Students
+title: Team
 permalink: /students/
 nav: true
 ---
 
-#### Interns at MSRA
+#### Advised students
 
-Current interns:
+Current students:
 
-- 2024.01 -- present, Mingxuan Xia, master @ Zhejiang University.
-- 2023.10 -- present, Kaijie Zhu, master @ Institute of Automation, CAS.
-- 2023.09 -- present, Cheng Li, master @ Institute of Software, CAS.
-- 2023.08 -- present, Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
+- 2019.09 -- present, [Shenghao Jin](https://scholar.google.com/citations?user=SDUxFkMAAAAJ), PhD student.
+  - Topics: Planar metamaterials and devices for energy applications
+- 2023.03 -- present, Tao Xie, Master student.
+  - Topics: Smart windows
+- 2023.08 -- present, Erwei Gui, Master student.
+- 2023.08 -- present, Jiahao Hou, Master Student.
+- 2022.09 -- present, Mingye Mo, undergraduate.
+  - Topics: Colorful radiative cooling
+- 2022.09 -- present, Jiayi Xiao, undergraduate.
+  - Topics: Colorful radiative cooling
+- 2022.09 -- present, Zihao Deng, undergraduate.
+  - Topics: Thermophotovoltaic emitters
+- 2022.09 -- present, Junji Xia, undergraduate.
+  - Topics: Thermophotovoltaic emitters
+- 2023.06 -- present, Yi Gao, undergraduate.
+  - Topics: Smart windows
+- 2023.06 -- present, Shucheng Shan, undergraduate
+  - Topics: Disordered metamaterials for energy conversion
+- 2022.09 -- present, Zhenyu Tian, undergraduate
+  - Topics: Disordered metamaterials for energy conversion
+- 2022.09 -- present, Zhiyuan Tan, undergraduate
+  - Topics: Disordered metamaterials for energy conversion
+
+
+Alumni:
+- 2021.09 -- 2022.06, Juying Bai, undergraduate
+  - Topics: Investigation of photocatalytic materials for solar-driven air purification
+- 2021.09 -- 2022.06, Tianqi Yu, undergraduate
+  - Topics: Numerical simulation of solar-driven air purification system based on photocatalysis
+- 2021.09 -- 2022.06, Yingxue He, undergraduate
+  - Topics: Development of a solar-driven air purification system based on photocatalysis
+- 2022.03 -- 2022.06, Jiayu Chen, undergraduate
+  - Topics: Nanophotonic engineering of novel materials for smart window applications
+- 2021.09 -- 2022.02, Fengyi Li, undergraduate
+  - Topics: Multifunctional radiative cooling coatings and system
+
+
+
+#### Co-advised students
+
+Current students:
+
+- 2023.09 -- present, Haifei Yang, PhD student (Advisor: Prof. Changying Zhao).
+  - Topics: TBA
+- 2022.09 -- present, Wenzi Yu, PhD student (Advisor: Prof. Changying Zhao).
+  - Topics: Novel thermal emitters
+- 2021.09 -- present, Zhen Gong, PhD student (Advisor: Prof. Changying Zhao).
+  - Topics: Topological thermal radiation
+- 2021.09 -- present, Jiahao Zhou, PhD student (Advisor: Prof. Changying Zhao).
+  - Topics: Narrowband thermal emitters and high-accuracy gas sensing devices
+- 2020.09 -- present, Fan Yi, PhD student (Advisor: Prof. Changying Zhao).
+  - Topics: Thermophotovoltaic energy conversion systems
+- 2018.09 -- present, Xujin Liu, PhD student (Advisor: Prof. Changying Zhao, Co-Advisor: Sergey I. Bozhevolnyi).
+  - Topics: Radiative/light transport in anisotropic natural media and metasurfaces
+
 
 Alumni:
 
-- 2023.05 -- 2023.10, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: continues his Ph.D.
-  - Topics: robustness of foundation models.
-  - Outcomes during internship: [Noisy model learning (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17002), [PromptBench](https://github.com/microsoft/promptbench)
-- 2023.06 -- 2023.09, Yachuan Liu, PhD @ University of Michigan, Ann Arbor.
-  - Topics: evaluation of large language models
-  - Outcomes during internship: [Meta semantic evaluation of LLMs](https://arxiv.org/abs/2310.01448)
-- 2023.03 -- 2023.06, Kaijie Zhu, Master @ Institute of Automation, CAS.
-  - Topics: adversarial machine learning and large language models.
-  - Outcomes during internship: [Dynamic evaluation of LLMs (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [Adversarial robustness (ICCV'23)](https://arxiv.org/abs/2308.02533), [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
-- 2022.10 -- 2023.03, [Xixu Hu](https://xixuhu.github.io/), Ph.D @ City University of Hong Kong.
-  - Topics: adversarial machine learning.
-  - outcomes during internship: IEEE Data Engineering Bulletin, ICLR'23 workshop.
-- 2022.07 -- 2023.03, [Runkai Zheng](https://scholar.google.com/citations?user=52haRQ0AAAAJ&hl=en), Master @ Chinese University of Hong Kong (Shenzhen).
-  - Topics: adversarial machine learning.
-- 2021.11 -- 2022.10, [Yidong Wang](https://qianlanwyd.github.io/), Master @ Tokyo Institute of Technology. Now: Ph.D in PKU. [[MSRA official blog](https://www.msra.cn/zh-cn/news/outreach-articles/%e5%ae%9e%e4%b9%a0%e6%b4%be%ef%bd%9c%e7%8e%8b%e4%b8%80%e6%a0%8b%ef%bc%9a%e4%b8%bb%e5%8a%a8%e5%b0%b1%e4%bc%9a%e6%9c%89%e6%95%85%e4%ba%8b%ef%bc%81%e9%ab%98%e6%95%88%e7%a7%91%e7%a0%94%e7%a7%98%e8%af%80)]
-  - Topics: semi-supervised learning, long-tail learning.
-  - Publications during internship: ICLR'23, NeurIPS'22, ACML'22, COLING'22. *Excellent master student at TokyoTech.*
-- 2021.06 -- 2021.11, [Wang Lu](https://scholar.google.com.hk/citations?user=r0C8zaMAAAAJ&hl=zh-CN), Ph.D @ ICT, Chinese Academy of Sciences. Now: Tsinghua University.
-  - Topics: domain generalization, federated learning, transfer learning.
-  - Publications during internship: ICLR'23, TKDE'22, TMLR'22, Ubicomp'22, IEEE TBD'22, ICASSP'22, IJCAI'22 workshop. *National scholarship.*
-- 2020.12 -- 2021.05, [Wenxin Hou](https://houwx.net), Master @ Tokyo Institute of Technology. Now: SDE at Microsoft.
-  - Topics: speech recognition, semi-supervised learning.
-  - Publications during internship: NeurIPS'21, TASLP'22, Interspeech'21.
-- 2020.05 -- 2020.09, Yuntao Du, Ph.D @ Nanjing University. Now: continue his Ph.D in NJU.
-  - Topics: domain adaptation, time series analysis.
-  - Publications during internship: CIKM'21 (Paperdigest most influential papers).
-- 2019.10 -- 2020.01, Weixin Lu, Bachelor @ Peking University. Now: Ph.D @ New York University.
-  - Topics: transfer learning, time series analysis, fintech.
-
-#### Collaborating students
-
-- Ph.D students at ICT, CAS: 
-  - Xin Qin (Ubicomp, KDD, national scholarship). Now: assistant professor at ICT, CAS.
-  - Yuxin Zhang (TKDE * 2). Now: engineer at StateGrid.
-- Ph.D student at Institute of Acoustics, CAS: Han Zhu (ICASSP * 2, TASLP).
-- Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang (KDD'23).
-- Ph.D student at University of Tokyo: Yivan Zhang, Wei Wang.
-- Ph.D student at Geogia Tech: Yiqiao Jin.
-
-#### Academic collaborators
-
-- Philip S. Yu, University of Illinois Chicago
-- Qiang Yang, Hong Kong University of Science and Technology
-- Yue Zhang, Westlake University.
-- Sinno Pan, The Chinese University of Hong Kong
-- Bhiksha Raj, Carnegie Mellon University
-- Masashi, Sugiyama, RIKEN and University of Tokyo.
-- Takahiro Shinozaki, Tokyo Institute of Technology.
-- Bernt Schiele, Max Planck Institute for Informatics.
-- Han Yu, Nanyang Technological University.
-- Janice Yixuan Zhang, William & Mary
-- Haohan Wang, University of Illinois Urbana-Champaign.
-- Diyi Yang, Stanford University.
-- Neil Zhenqiang Gong, Duke University.
-- Haoliang Li, City University of Hong Kong.
+- 2017.09 -- 2023.07, [Wenbin Zhang](https://scholar.google.com/citations?user=HhrBxVcAAAAJ) (PhD, Advisor: Prof. Changying Zhao).
+  - Topics: Near-field thermal radiation and machine learning.
+  - Current: Postdoc @ Shanghai Jiao Tong University
+- 2016.09 -- 2022.07, Jie Chen (PhD, Advisor: Prof. Changying Zhao).
+  - Topics: Many-body radiative heat transfer.
+  - CUrrent: Engineer @ Huawei Technologies Co., Ltd.
+- 2016.09 -- 2022.07, [Mengqi Liu](https://scholar.google.com/citations?user=VAeFsOsAAAAJ) (PhD, Advisor: Prof. Changying Zhao, Co-Advisor: Cheng-Wei Qiu).
+  - Topics: Magneto-optics and nonreciprocal thermal radiation.
+  - Current: Postdoc researcher @ Shanghai Jiao Tong University
+- 2018.06 -- 2021.06, [Yikang Chen](https://engineering.purdue.edu/NanoLab/people.htm) (MS, Advisor: Prof. Changying Zhao).
+  - Topics: Narrowband thermal emitters for gas sensing applications.
+  - Current: PhD student @ Purdue University
+- 2015.06 -- 2021.06, [Tiancheng Huang](https://scholar.google.com/citations?user=3k7BOiAAAAAJ) (PhD, Advisor: Prof. Changying Zhao).
+  - Topics: All-dielectric metamaterials and metasurfaces
+  - Current: Engineer @ AECC
+- 2019.02 -- 2021.03, [Zelin Fu](http://www.hfr.iis.u-tokyo.ac.jp/members/fu/index-e.html) (MS, Advisor: Prof. Changying Zhao)
+  - Topics: Topological photonic waveguides.
+  - Current: PhD student @ The University of Tokyo 
+- 2016.09 -- 2019.06, Xiawen Chen (MS, Advisor: Prof. Changying Zhao)
+  - Topics: Radiative transfer in anisotropic and disordered media  
+  - Current: Engieer @ Hisilicon 
+- 2016.09 -- 2019.06, Wangan Ge (MS, Advisor: Prof. Changying Zhao)
+  - Topics: Thermal radiation heat transfer in graded thermal barrier coatings
+  - Current: Master of Computer Science @ [University of Southern California](https://www.linkedin.com/in/wangan-ge-3b957a226)
+   

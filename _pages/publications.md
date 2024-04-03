@@ -3,33 +3,16 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
+years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 nav: true
 ---
 
-[[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)] | [[DBLP](https://dblp.org/pid/19/2969-1.html)] | [[View by topic](https://jd92.wang/research/)]
+[[Google scholar](https://scholar.google.com/citations?user=5KgNBgUAAAAJ)] | [[Researchgate](https://www.researchgate.net/profile/Boxiang-Wang-2)] | [[View by topic](https://wangboxiang-sjtu.github.io/research/)]
 
 #### Preprints
 
-- On Catastrophic Inheritance of Large Foundation Models. Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang. [[arxiv](https://arxiv.org/abs/2402.01909)]
-- DyVal 2: Dynamic Evaluation of Large Language Models by Meta Probing Agents. Kaijie Zhu, Jindong Wang, Qinlin Zhao, Ruochen Xu, Xing Xie. [[arxiv](https://arxiv.org/abs/2402.14865)]
-- CultureLLM: Incorporating Cultural Differences into Large Language Models. Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie. [[arxiv](https://arxiv.org/abs/2402.10946)]
-- SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization. Xixu Hu, Runkai Zheng, Jindong Wang, Cheuk Hang Leung, Qi Wu, Xing Xie. [[arxiv](https://arxiv.org/abs/2402.03317)]
-- PromptBench: A Unified Library for Evaluation of Large Language Models. Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie. [[arxiv](https://arxiv.org/abs/2312.07910)]
-- The Good, the Bad, and Why: Unveiling Emotions in Generative AI. Cheng Li, Jindong Wang, Yixuan Zhang, Kaijie Zhu, Xinyi Wang, Wenxin Hou, Jianxun Lian, Fang Luo, Qiang Yang, Xing Xie. [[arxiv](https://arxiv.org/abs/2312.11111)]
-- CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents. Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie. [[arxiv](https://arxiv.org/abs/2310.17512)]
-- ZooPFL: Exploring Black-box Foundation Models for Personalized Federated Learning. Wang Lu, Hao Yu, Jindong Wang, Damien Teney, Haohan Wang, Yiqiang Chen, Qiang Yang, Xing Xie, Xiangyang Ji. [[arxiv](https://arxiv.org/abs/2310.05143)]
-- Meta Semantic Template for Evaluation of Large Language Models. Yachuan Liu, Liang Chen, Jindong Wang, Qiaozhu Mei, Xing Xie. [[arxiv](https://arxiv.org/abs/2310.01448)]
-- Frustratingly Easy Model Generalization by Dummy Risk Minimization. Juncheng Wang, Jindong Wang, Xixu Hu, Shujun Wang, Xing Xie. [[arxiv](https://arxiv.org/abs/2308.02287)]
-- EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus. Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie. [[arxiv](https://arxiv.org/abs/2307.11760)]
-- PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie. [[arxiv](https://arxiv.org/abs/2306.04528)] [[code](https://github.com/microsoft/promptbench)]
-- Selective Mixup Helps with Distribution Shifts, But Not (Only) because of Mixup. Damien Teney, Jindong Wang, Ehsan Abbasnejad. [[arxiv](https://arxiv.org/abs/2305.16817)]
-- Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, Yidong Wang, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj. [[arxiv](https://arxiv.org/abs/2305.12715)]
-- An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning. Hao Chen, Yue Fan, Yidong Wang, Jindong Wang, Bernt Schiele, Xing Xie, Marios Savvides, Bhiksha Raj. [[arxiv](https://arxiv.org/abs/2211.11086)] 
-- Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. Hao Chen, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, and Marios Savvides. [[arxiv](https://arxiv.org/abs/2208.07463)]
-- Equivariant Disentangled Transformation for Domain Generalization under Combination Shift. Yivan Zhang, Jindong Wang, Xing Xie, and Masashi Sugiyama. [[arxiv](https://arxiv.org/abs/2208.02011)]
-- Learning Invariant Representations across Domains and Tasks. Jindong Wang, Wenjie Feng, Chang Liu, Chaohui Yu, Mingxuan Du, Renjun Xu, Tao Qin, and Tie-Yan Liu. [[arxiv](https://arxiv.org/abs/2103.05114)]
-- Learning to match distributions for domain adaptation. Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, Wenjie Feng, Yiqiang Chen, and Tie-Yan Liu. [[arxiv](https://arxiv.org/abs/2007.10791)]
+- High-order topological quantum optics in ultracold atomic metasurfaces. Boxiang Wang, C. Y. Zhao. [[arxiv](https://arxiv.org/abs/2108.01509)]
+- Role of Near-Field Interaction on Light Transport in Disordered Media. Boxiang Wang, C. Y. Zhao. [[arxiv](https://arxiv.org/abs/1807.09953)]
 
 #### Books
 
@@ -51,3 +34,31 @@ nav: true
 {% endfor %}
 
 </div>
+
+
+#### Patents
+
+1.	王博翔，金圣皓，赵长颖. 一种基于耦合效应的半透明太阳能电池彩色电极构建方法.中国发明专利, CN202310482093.5
+
+2.	何明键，齐宏，王博翔，徐建明，任亚涛. 一种结合近场热光伏系统的多效空间电源装置. 中国发明专利，ZL202210863488.5
+
+3.	赵长颖，刘旭晶，王博翔，徐建明，张文斌. 一种应用于热光伏系统的超表面选择性辐射器及其制备方法. 中国发明专利，CN202111449530.0
+
+4.	赵长颖，王博翔，张文斌，黄天成，刘梦琦，陈杰，刘旭晶，金圣皓. 基于超材料热辐射器的热光伏发电系统及其制备方法. 中国发明专利，ZL202110155540.7   
+
+5.	赵长颖，金圣皓，王博翔. 一种具有结构色的辐射制冷复合涂层、应用及制备方法. 中国发明专利，ZL202110592222.7
+
+6.	赵长颖，陈杰，王博翔，张文斌，刘旭晶，金圣皓. 基于多探针的无光源式近场热辐射扫描显微镜系统. 中国发明专利，ZL202110431133.4   
+
+7.	赵长颖，金圣皓，王博翔. 一种具有结构色的辐射制冷多层膜结构. 中国发明专利，CN202110255747.1     
+
+8.	赵长颖，黄天成，王博翔. 基于近场零极模态的亚波长热辐射波导器件构造方法及系统. 中国发明专利，ZL202010969111.9
+
+9.	赵长颖，张文斌，王博翔. 基于贝叶斯优化的多层膜选择性辐射器构建方法及系统. 中国发明专利，ZL 202010456196.0
+
+10.	赵长颖，张文斌，王博翔，陈杰，陈轶康. 基于近场辐射的可调控换热器件构造方法及系统. 中国发明专利，CN202010456179.7
+
+11.	赵长颖，陈轶康，王博翔，黄天成. 基于超材料的无滤波片型红外热辐射气体浓度传感器. 中国发明专利，ZL201911180664.X
+    
+12.	鲍华，闫晨，赵长颖，王博翔. 一种辐射制冷双层纳米涂层及其制备方法. 中国发明专利，ZL201510846914.4
+
