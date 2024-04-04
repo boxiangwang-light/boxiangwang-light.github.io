@@ -9,8 +9,10 @@ nav: true
 
 - Journal editorship:
   - Young Editorial Board Member, Journal of Thermal Science
-  - Associate Editor, Frontiers in Engineering
+  - Young Editorial Board Member, Frontiers in Heat and Mass Transfer
+  - Associate Editor, Frontiers in Mechanical Engineering
   - Young Editorial Board Member, Carbon Neutrality
+  - Guest Editor, Frontiers in Energy
 - Conference organizer:
   - [The 3rd Asian Conference on Thermal Sciences](https://acts3.sjtu.edu.cn/), Secretary General
   - [The 4th International Workshop on Nano-Micro Thermal Radiation (NanoRad 2020)](https://nanorad2020.sjtu.edu.cn/),   Conference Secretary
