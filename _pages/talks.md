@@ -7,7 +7,7 @@ nav: true
 
 #### Invited talks
 - Invited talk: **微纳尺度热辐射及其能源与传感器件**, 中国微米纳米技术学会微纳传感技术与检测创新论坛, 上海市, 2024-11-16至2024-11-18
-- Invited talk: **基于可逆金属电沉积的自发辐射制冷电致变色技术**, 第三届热辐射研讨会, 河南省新乡市, 2024-07-13至2024-07-14
+- Invited talk: **基于可逆金属电沉积的自发辐射制冷电致变色技术**, 第三届热辐射研讨会, 新乡市, 2024-07-13至2024-07-14
 - Invited talk: **Tailoring Thermal Radiation Based on Topological Photonic Structures**, The 3rd Asian Conference on Thermal Sciences (ACTS 2024), Shanghai, China, June 2024
 - Invited talk: **Dual-coupled optical resonant systems for efficient spectral engineering and their applications in energy devices**, at The 4th International Symposium on Multiscale Simulations of Thermophysics(MSTP 2024), May 2024, Beijing, China. 
 - Invited talk: **基于可逆金属电沉积的自发辐射制冷电致变色技术**, 第六届全国电致变色会议, 西安市, 2024-05-17至2024-05-19
